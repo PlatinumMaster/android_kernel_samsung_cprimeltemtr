@@ -1,2 +1,2 @@
 # android_kernel_samsung_cprimeltemtr
-Stock kernel for the Samsung Galaxy Core Prime.
+Stock kernel source for the Samsung Galaxy Core Prime (G360T1 - codename: cprimeltemtr).
